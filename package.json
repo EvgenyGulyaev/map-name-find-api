@@ -1,0 +1,30 @@
+{
+  "name": "map-name-find-api",
+  "version": "0.0.2",
+  "description": "Basic library for Country, State and City",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvgenyGulyaev/countries-API.git"
+  },
+  "keywords": [
+    "country",
+    "city",
+    "state"
+  ],
+  "author": "Evgeny Gulyaev (wardercompany@gmail.com)",
+  "readmeFilename": "README.md",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EvgenyGulyaev/countries-API/issues"
+  },
+  "homepage": "https://github.com/EvgenyGulyaev/countries-API#readme",
+  "dependencies": {
+    "lodash.filter": "^4.6.0",
+    "lodash.find": "^4.6.0"
+  }
+}
